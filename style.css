@@ -16,6 +16,10 @@ p {
   padding: 0;
 }
 
+.navbar-brand {
+  font-family: "Satisfy", cursive;
+}
+
 a {
   text-decoration: none;
   color: black;
