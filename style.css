@@ -218,6 +218,7 @@ button:hover {
   max-width: 18.75rem;
   display: flex;
   flex-direction: column;
+  gap: 15px;
   padding: 1rem;
   width: 43.75rem;
   position: relative;
