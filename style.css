@@ -35,6 +35,10 @@ a {
   color: black;
 }
 
+a:visited {
+  color: black;
+}
+
 ul {
   list-style-type: none;
   display: flex;
@@ -147,10 +151,6 @@ li {
   margin-top: 0.9375rem;
   border: 1px solid #2e2e2e;
   transition: all 0.6s;
-}
-
-a:visited {
-  color: black;
 }
 
 button:hover {
@@ -347,6 +347,7 @@ textarea {
     justify-content: space-around;
     align-items: space-around;
     gap: 0;
+    color: white;
   }
 
   .icon2 {
@@ -357,9 +358,5 @@ textarea {
   .icon2 img {
     width: 30%;
     height: 30%;
-  }
-
-  .foot2Child {
-    color: white;
   }
 }
