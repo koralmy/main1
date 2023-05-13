@@ -273,6 +273,13 @@ textarea {
   background-color: #2e2e2e;
 }
 
+.foot2 p {
+  color: white;
+  text-align: center;
+  font-size: 0.9375rem;
+  padding-bottom: 10px;
+}
+
 .foot2Child img {
   width: 25px;
 }
@@ -358,5 +365,9 @@ textarea {
   .icon2 img {
     width: 30%;
     height: 30%;
+  }
+
+  .foot2 p {
+    font-size: 0.7rem;
   }
 }
