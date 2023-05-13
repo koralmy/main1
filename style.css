@@ -168,7 +168,7 @@ button:hover {
 .grid1 {
   background-color: white;
   width: 14.375rem;
-  min-height: 22rem;
+  min-height: 25rem;
   border-radius: 10px;
   transition: all 0.4s;
 }
